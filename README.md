@@ -14,4 +14,4 @@ The third-party files are from [MEYELens](https://github.com/raffaelemazziotti/M
 
 ## Presentation
 
-The [Stage 2 presentation](presentation/GIG_Stage2_VK26-AU-HCI-0032_Repo_Linked.pptx) and its four illustrative concept images are included for team review. The concept images are AI-generated and do not show a built device or field test.
+The [Final Stage 2 presentation](presentation/GIG_Stage2_VK26-AU-HCI-0032_Final.pptx) and its four illustrative concept images are included for team review. The concept images are AI-generated and do not show a built device or field test.
