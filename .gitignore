@@ -1,0 +1,3 @@
+.DS_Store
+*.stl
+!third_party/meyelens/*.zip
